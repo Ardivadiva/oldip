@@ -52,7 +52,7 @@ get(URLGeoJson,responseData);
                 
                 return new ol.style.Style({
                     stroke: new ol.style.Stroke({
-                        color: 'blue', 
+                        color: 'yellow', 
                         width: 3
                     })
                 });
