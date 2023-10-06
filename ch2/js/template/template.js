@@ -1,4 +1,4 @@
-export let URLGeoJson = "https://raw.githubusercontent.com/Ardivadiva/cobag/main/data.json";
+export let URLGeoJson = "https://raw.githubusercontent.com/Ardivadiva/oldip/main/data.json";
 export let tableTag="tr";
 export let tableRowClass="content is-small";
 export let tableTemplate=`
